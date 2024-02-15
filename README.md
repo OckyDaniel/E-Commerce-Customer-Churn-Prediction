@@ -3,6 +3,7 @@
 by Ocky Daniel 
 
 Project ini sebagai bahan penilaian Capstone Purwadhika Data Science 
+<br>Jika ada image yang tidak bisa diload, silahkan kunjungi [link ini](https://nbviewer.org/github/OckyDaniel/Purwadhika-Capstone-Project_Module-3/blob/main/Ecommerce_Capstone_Project_Module_3-3.ipynb)
 
 # **E-Commerce Customer *churn***
 
