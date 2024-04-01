@@ -1,4 +1,3 @@
-# Purwadhika-Capstone-Project_Module-3
 # E-Commerce Customer Churn Prediction (Classification Model)
 by Ocky Daniel 
 
